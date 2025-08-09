@@ -1,13 +1,5 @@
 播放列表由,#genre#
-http://abc.com
-www.iptv-search.com,#genre#
-http://abc.com
-智能生成,#genre#
-http://abc.com
-生成日期2025-08-08,#genre#
-http://abc.com
-Mylist,#央视#
-CCTV1，http://221.205.116.218:9003/hls/1/index.m3u8
+CCTV1，http://ygbh.site/php/bfgd.php?id=488
 CCTV2，http://111.43.126.240:9003/hls/14/index.m3u8
 CCTV3，http://110.178.210.209:9003/hls/3/index.m3u8
 CCTV4，http://111.43.126.240:9003/hls/16/index.m3u8
@@ -62,8 +54,8 @@ CCTV17,https://stream.iptv-search.com/main.php?id=CCTV17&t=1753977057&token=0952
 亚洲旅游,https://stream.iptv-search.com/main.php?id=%E4%BA%9A%E6%B4%B2%E6%97%85%E6%B8%B8&t=1753977057&token=58e0166c2847261e42102a81531a7af3
 亚洲美食,https://stream.iptv-search.com/main.php?id=%E4%BA%9A%E6%B4%B2%E7%BE%8E%E9%A3%9F&t=1753977057&token=9a5f55b007712f0ebdd7f225ad585b12
 MTV Live,https://stream.iptv-search.com/main.php?id=MTV+Live&t=1753977057&token=2d150ec39dd349d3b2856b268f667a47
-凤凰中文,https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87&t=1753977057&token=9a1c848a6bae7f13ce170483a4070ac1
-凤凰资讯,https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF&t=1753977057&token=12f29bc8966f25f528a44670dc2842d9
+凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
 华丽翡翠台,https://stream.iptv-search.com/main.php?id=%E5%8D%8E%E4%B8%BD%E7%BF%A1%E7%BF%A0%E5%8F%B0&t=1753977057&token=9ffc29cde4989925d9905b74052979be
 华视 CTS HD,https://stream.iptv-search.com/main.php?id=%E5%8D%8E%E8%A7%86+CTS+HD&t=1753977057&token=3f5daebb7f53540b996647352b52a91a
 卫视中文台,https://stream.iptv-search.com/main.php?id=%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87%E5%8F%B0&t=1753977057&token=0eb99c39ad6d75df95cd5933ae5d151f
